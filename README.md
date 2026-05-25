@@ -4,7 +4,7 @@ An AI-powered web app that drafts tailored cover letters. Paste in a job
 description and a few notes about your background, pick a tone and length, and
 the app generates a ready-to-edit cover letter using the Claude API.
 
-**Live demo:** [add your Vercel URL here]
+**Live demo:** https://cover-letter-generator-rouge.vercel.app/
 
 This is my first AI-native project, built to learn how to wire a front end up
 to a large language model and deploy it securely.
