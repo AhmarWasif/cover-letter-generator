@@ -1,0 +1,13 @@
+# Local environment files — never commit secrets like API keys
+.env
+.env.local
+.env*.local
+
+# Vercel's local project link
+.vercel
+
+# Dependencies (if you ever install any)
+node_modules
+
+# macOS clutter
+.DS_Store
